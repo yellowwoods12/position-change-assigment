@@ -1,5 +1,4 @@
-# position-change-assigment
-Position update assignment 
+# Position Update Assignment
 
 
 The above directory doesn't contain any model checkpoints. Please download sam_vit.pth checkpoint from https://drive.google.com/file/d/1qobFYrI4eyIANfBSmYcGuWRaSIXfMOQ8/view and lama checkpoint from https://drive.google.com/drive/folders/1ST0aRbDRZGli0r7OVVOQvXwtadMCuWXg (pretrained_models directory). Kindly put the two in the root folder. 
